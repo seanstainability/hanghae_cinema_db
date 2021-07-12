@@ -1,1 +1,1 @@
-![서버](https://my-json-server.typicode.com/seanstainability/hanghae_cinema_db)
+https://my-json-server.typicode.com/seanstainability/hanghae_cinema_db
